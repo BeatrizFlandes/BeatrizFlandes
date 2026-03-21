@@ -35,7 +35,7 @@ Aqui você encontrará projetos focados em:
 
 ## 📫 Contato
 
-* ✉️ Email: beatrizdepaola@gmail.com
+* ✉️ Email: beatrizdepaola1999@gmail.com
 * 💼 LinkedIn: https://www.linkedin.com/in/beatriz-de-paola-4a1013385/
 
 ---
