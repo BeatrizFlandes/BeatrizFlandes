@@ -1,7 +1,43 @@
-- 👋 Hi, I’m @Bee
-- 👀 I’m interested in Learning Html + css
-- 🌱 I’m currently learning php, javascript and java.
-- 😄 Pronouns: She/her 
-- ⚡ Fun fact: I´m a super nerd!
+# 👩‍💻 Beatriz (Bee)
+
+Desenvolvedora focada em **Frontend**, com forte domínio em **HTML, CSS e JavaScript**, além de conhecimentos em **Java**.
+
+## 🚀 Sobre mim
+
+Sou apaixonada por tecnologia, interfaces bem construídas e experiências de usuário fluidas. Também tenho grande interesse em **impressão 3D**, com experiência em uso, configuração e manutenção de impressoras.
+
+## 🛠️ Tecnologias
+
+* 💻 HTML5
+* 🎨 CSS3
+* ⚡ JavaScript
+* ☕ Java
+* 🧩 Bootstrap
+* 🐘 PHP (básico)
+* 🖨️ Impressão 3D (uso e manutenção)
+
+## 📌 Objetivo
+
+Atuar como desenvolvedora Frontend, criando interfaces modernas, eficientes e bem estruturadas.
+
+## 📂 Projetos
+
+Aqui você encontrará projetos focados em:
+
+* Interfaces responsivas
+* Dashboards
+* Sistemas web
+* Experimentos com UI/UX
+* Projetos envolvendo impressão 3D
+
+## 📫 Contato
+
+* ✉️ Email: beatrizdepaola@gmail.com
+* 💼 LinkedIn: https://linkedin.com/in/seu-link
+
+---
+
+⭐ Obrigada por visitar meu perfil!
 
 
+⭐ Obrigada por visitar meu perfil!
