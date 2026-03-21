@@ -1,7 +1,9 @@
-# 👩‍💻 Beatriz (Bee) - Perfil mais pessoal - 
+# 👩‍💻 Beatriz (Bee) 
 
 Desenvolvedora focada em **Frontend**, com forte domínio em **HTML, CSS e JavaScript**, além de conhecimentos em **Java**.
 (Nesse perfil eu posto alguns projetos pessoais)
+
+Aqui está o meu perfil secundário, onde eu posto só projetos mais profissionais ou terminados - https://github.com/Beelbiie
 
 ## 🚀 Sobre mim
 
